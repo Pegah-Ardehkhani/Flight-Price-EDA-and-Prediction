@@ -46,19 +46,19 @@ In this project, these questions will be answered:
 Sample Visualization:
 
 <p align="center">
-  <img width="1200" height="500" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/airlines.PNG">
+  <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/airlines.PNG">
 </p>
 
 <p align="center">
-  <img width="1200" height="500" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/airelines_price.PNG">
+  <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/airelines_price.PNG">
 </p>
 
 Model Evaluation:
 
 <p align="center">
-  <img width="1200" height="500" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/true_predicted.PNG">
+  <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/true_predicted.PNG">
 </p>
 
 <p align="center">
-  <img width="1200" height="500" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/compare.PNG">
+  <img width="1200" height="400" src="https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction/blob/main/images/compare.PNG">
 </p>
