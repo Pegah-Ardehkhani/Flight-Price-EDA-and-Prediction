@@ -20,7 +20,6 @@ In this project, these questions will be answered:
 * [x] How the price changes with change in Source and Destination?
 * [x] How does the ticket price vary between Economy and Business class?
 * [x] Which features have the most impact on predicting flight price?
-* [x] Which features have the most impact on predicting flight price?
 * [x] Which model is the best for predicting flight price?
 
 ## Project's Table of Contents ✍️
